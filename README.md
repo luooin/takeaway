@@ -1,5 +1,5 @@
 # takeaway🎂
-基于SSM的外卖系统、瑞吉外卖
+基于SpringBoot的外卖系统、瑞吉外卖
 
 #### 介绍🌞
 
